@@ -18,8 +18,9 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Database (if applicable)
-*.db
 
-# Releases
-releases/*
+# Releases & Zips (Do not push to repo)
+releases/
+*.zip
+*.rar
+*.7z
